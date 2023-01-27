@@ -19,3 +19,16 @@ Favourite soccer team is **Real Madrid**
 - Pepe
 
 [Go to About me](AboutMe.md)
+
+-----
+
+## Best countries to visit
+
+If you are thinking of coutries to visit,below is the list of countries that are good to visit for vacation.The countries are listed as per the popularity and are quite affordable to travel.
+
+|Countries  |Reason|Number of days to spend|
+|:--------:|:-----:|:-----:|
+| New Zealand |New Zealand is a beautiful place with good natural landscapes.Queenstown is one of the best cities to visit in Newzealand.|3|
+|Morocco    |Morocco officially the Kingdom of Morocco,is also a country in the Maghreb region of North Africa.Marrakesh is major tourist destination of Morroco.|4|
+|India      |India is a country of diversity ,there are many places for vacation.Shimla is one of the popular cities to visit in India.|5|
+|Porugal    |Portugal officially the Portuguese Republic ,is a country located on the Iberian Peninsula, in southwestern Europe, and whose territory also includes the Atlantic archipelagos of the Azores and Madeira.Alentejo is popular destination for vacation in portugal|6|
