@@ -18,7 +18,7 @@ Favourite soccer team is **Real Madrid**
 - Claude Makelele
 - Pepe
 
-[Go to About me](AboutMe.md)
+
 
 -----
 
@@ -42,7 +42,9 @@ If you are thinking of coutries to visit,below is the list of countries that are
 
 ---
 ## PHP code fencing example:
->[PHP - error logging through htaccess - Error 500.](https://stackoverflow.com/questions/64077699/php-error-logging-through-htaccess-error-500)
+>PHP - error logging through htaccess - Error 500.
+
+<https://stackoverflow.com/questions/64077699/php-error-logging-through-htaccess-error-500>
 
 
 
@@ -59,4 +61,6 @@ php_value error_log /location/to/php_error.log
 
 ```
 
-   [Snippet Link](https://css-tricks.com/snippets/htaccess/php-error-logging/)
+   [CSS Snippet Link](https://css-tricks.com/snippets/htaccess/php-error-logging/)
+
+   [Go to About me](AboutMe.md)
